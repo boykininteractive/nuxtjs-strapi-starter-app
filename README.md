@@ -1,0 +1,1 @@
+# nuxtjs-strapi-starter-app
