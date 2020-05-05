@@ -1,0 +1,21 @@
+{
+  "name": "nuxtjs-strapi-starter-app",
+  "version": "1.0.0",
+  "description": "NuxtJS sudo npx create-nuxt-app frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nuxtjs": "cd frontend && sudo npm run dev",
+    "strapi": "cd backend && npm run develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://boykininteractive@github.com/boykininteractive/nuxtjs-strapi-starter-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boykininteractive/nuxtjs-strapi-starter-app/issues"
+  },
+  "homepage": "https://github.com/boykininteractive/nuxtjs-strapi-starter-app#readme"
+}

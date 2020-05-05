@@ -14,3 +14,7 @@ npx create-strapi-app backend --quickstart
 
 npm run develop
 http://localhost:1337/admin
+
+Start Front End and Back End
+npm run nuxtjs
+npm run strapi
